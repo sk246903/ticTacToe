@@ -1,0 +1,164 @@
+body{
+background: #355C7D;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #C06C84, #6C5B7B, #355C7D);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #C06C84, #6C5B7B, #355C7D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+body
+{
+	margin :0;
+	font-family: 'Krub', sans-serif;
+
+}
+h1{
+	color:white;
+	text-align: center;
+	font-weight: 700;
+}
+#squareOne
+{
+	width: 30%;
+	background: #282828;
+	padding-bottom: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 20%;
+	transition: all 0.8s;
+}
+#squareTwo
+{
+	width: 30%;
+	background: #282828;
+	padding-bottom: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 20%;
+	transition: all 0.8s;
+}
+#squareThree
+{
+	width: 30%;
+	background: #282828;
+	padding-bottom: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 20%;
+	transition: all 0.8s;
+}
+#squareFour
+{
+	width: 30%;
+	background: #282828;
+	padding-bottom: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 20%;
+	transition: all 0.8s;
+}
+#squareFive
+{
+	width: 30%;
+	background: #282828;
+	padding-bottom: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 20%;
+	transition: all 0.8s;
+}
+#squareSix
+{
+	width: 30%;
+	background: #282828;
+	padding-bottom: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 20%;
+	transition: all 0.8s;
+}
+#squareSeven
+{
+	width: 30%;
+	background: #282828;
+	padding-bottom: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 20%;
+	transition: all 0.8s;
+}
+#squareEight
+{
+	width: 30%;
+	background: #282828;
+	padding-bottom: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 20%;
+	transition: all 0.8s;
+}
+#squareNine
+{
+	width: 30%;
+	background: #282828;
+	padding-bottom: 30%;
+	float: left;
+	margin:1.66%;
+	border-radius: 20%;
+	transition: all 0.8s;
+}
+#container
+{
+	max-width: 600px;
+	margin: 20px auto;
+	
+}
+#header{
+	background:white;
+	height: 35px;
+	text-align: center; 
+	text-transform: uppercase;
+	border-radius: 25%;
+}
+#one{
+	display: inline-block;
+	width:20%;
+	height:100%;
+	border: none;
+}
+#two{
+	display: inline-block;
+	width:20%;
+	height:100%;
+	border: none;
+	margin-right: 17%;
+}
+#reset{
+	margin-left: 25%;
+	margin-right: 2%; 
+	float: left;
+	height: 100%;
+	border: none;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+#reMatch{
+	margin-left: 2%;
+	margin-right: 2%; 
+	float: left;
+	height: 100%;
+	border: none;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+p{
+	text-align: center;
+	margin-top: 2%;
+	font-weight: 700;
+	
+}
+#mainHead{
+	font-size: 40px;
+}
+#copyRigth{
+	font-size: 20px;
+	font-weight: 700;
+}
